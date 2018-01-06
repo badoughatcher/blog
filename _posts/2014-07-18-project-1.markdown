@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Trina's thing number 1
+subtitle: Whoohoo
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -13,3 +13,5 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+This is a test!
